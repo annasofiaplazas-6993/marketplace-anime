@@ -49,4 +49,4 @@ Proyecto académico en desarrollo.
 Hasta el momento, hemos desarrollado el frontend con React y TypeScript, creado el repositorio y publicado la página mediante Cloudflare Pages. También estamos trabajando en los demás componentes del proyecto, como la configuración del backend, la base de datos y el almacenamiento de imágenes.
 Quedamos atentos a cualquier observación o indicación sobre las evidencias que debamos entregar.
 https://2d94ecbd.marketplace-anime.pages.dev/#productos
-Muchas gracias.
+Muchas gracias. https://marketplace-anime.pages.dev/
