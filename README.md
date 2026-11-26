@@ -1,7 +1,7 @@
 *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚Marketplace de Anime*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
 °Descripción del proyecto
-Nuestro proyecto consiste en desarrollar un marketplace dedicado a la compra y venta de productos relacionados con el anime y la cultura japonesa.
+Nuestro proyecto consiste en desarrollar un marketplace dedicado a la compra y venta de productos relacionados con el anime.
 Los usuarios podrán explorar artículos como figuras coleccionables, mangas, pósteres, ropa, llaveros y otros productos relacionados con sus series favoritas.
 
 °Objetivo
@@ -10,10 +10,8 @@ Desarrollar una plataforma web que permita a los usuarios consultar productos, p
 °Categorías de productos
 - Figuras coleccionables.
 - Mangas.
-- Ropa y accesorios.
-- Pósteres.
 - Llaveros.
-- Otros artículos de anime.
+
 
 °Tecnologías del proyecto
 - React.
